@@ -24,6 +24,6 @@ int main()
     }
     if(guess_number!=secret_number)
     printf("You Lost!");
-
+int a=4;
     return 0;
 }
